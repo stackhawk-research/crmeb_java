@@ -4,7 +4,7 @@
 </div>
 <div align="center">
 
-CRMEB开源商城系统Java版
+CRMEB open source mall system Java version
 
 </div>
 
@@ -38,7 +38,7 @@ CRMEB开源商城系统Java版
 </div>
 
 <div align="center">
-    如果对您有帮助，您可以点右上角 "Star" ❤️ 支持一下 谢谢！
+    If it helps you, you can click the "Star" in the upper right corner ❤️ to support us. Thank you!
 </div>
 
 
@@ -180,17 +180,17 @@ CRMEB JAVA 技术交流QQ群 3群 640230510 🈵️ 群已满<br>
 <!-- ---
 
 ### 💌 特别鸣谢
-核心开发团队
+Core development team
 
-产品: 木子刀客
+Product: Muzi Swordsman
 
-技术: ❄指缝de阳光, 怪兽的猫, 乡关何处
+Technology: ❄ Sunshine between fingers, Monster Cat, Where is the hometown
 
-团队打杂: 大粽子
+Team chores: Big Zongzi
 
-UI: 被子横盖显得高🐰
+UI: The quilt looks taller when covered horizontally🐰
 
-测试: 请叫我绵绵🐏, 夏天
+Test: Please call me Mianmian🐏, Summer
 
 --- -->
 
